@@ -1,4 +1,6 @@
-# kucoin-AMPL-manager
+# kucoin-AMPL-manager  
+
+This app manages orders for AMPL token. Open orders need to be adjusted daily because of how AMPL's dynamic supply works.
 
 ### Installation  
 
